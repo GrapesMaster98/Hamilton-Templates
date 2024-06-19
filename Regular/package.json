@@ -2,7 +2,6 @@
   "name": "bot-templates",
   "version": "1.0.0",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "dev": "node deploy.js && node index.js",
     "start": "node index.js"
